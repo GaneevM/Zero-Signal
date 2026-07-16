@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/30082795/README.md)
 # Zero Signal
 
 Zero Signal is a self-contained browser FPS where the player enters a ten-combatant arena and fights to become the last survivor. It includes multiple operators, weapon loadouts, themed maps, pickups, grenades, and bots that move and fight independently.
